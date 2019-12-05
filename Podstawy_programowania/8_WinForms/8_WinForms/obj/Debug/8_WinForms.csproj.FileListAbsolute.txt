@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\bin\Debug\8_WinForms.exe.config
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\bin\Debug\8_WinForms.exe
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\bin\Debug\8_WinForms.pdb
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\obj\Debug\8_WinForms.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\obj\Debug\_8_WinForms.Form1.resources
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\obj\Debug\_8_WinForms.Properties.Resources.resources
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\obj\Debug\8_WinForms.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\obj\Debug\8_WinForms.exe
+C:\Users\Student\Desktop\8_WinForms\8_WinForms\obj\Debug\8_WinForms.pdb
