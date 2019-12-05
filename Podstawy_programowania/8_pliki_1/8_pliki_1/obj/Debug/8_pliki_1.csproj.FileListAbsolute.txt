@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\8_pliki_1\8_pliki_1\bin\Debug\8_pliki_1.exe.config
+C:\Users\Student\Desktop\8_pliki_1\8_pliki_1\bin\Debug\8_pliki_1.exe
+C:\Users\Student\Desktop\8_pliki_1\8_pliki_1\bin\Debug\8_pliki_1.pdb
+C:\Users\Student\Desktop\8_pliki_1\8_pliki_1\obj\Debug\8_pliki_1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\8_pliki_1\8_pliki_1\obj\Debug\8_pliki_1.exe
+C:\Users\Student\Desktop\8_pliki_1\8_pliki_1\obj\Debug\8_pliki_1.pdb
